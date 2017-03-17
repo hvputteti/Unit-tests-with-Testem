@@ -6,3 +6,9 @@ https://regex101.com/
 
 Jasmine test tools
 https://jasmine.github.io/2.0/introduction.html
+
+EmberJS Testing
+https://guides.emberjs.com/v2.1.0/testing/testing-routes/
+
+Testem
+https://github.com/testem/testem
